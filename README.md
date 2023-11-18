@@ -2,8 +2,7 @@
 
 Perkenalkan nama saya **Ida Bagus Surya Putrawan**.
 
-Walaupun di umur yang sudah tidak muda ini baru bisa merasakan bangku kuliah.
-Tetapi saya tetap semangat dalam menjalaninya..
+Saya senang mempelajari programming dan mempunyai cita-cita untuk menjadi seorang developer..
 
 
 <p align="left">
